@@ -13,10 +13,7 @@
 > Comprehensive design, administration, and security implementation of a corporate LAN/WAN network for an insurance company. The architecture connects a central headquarters (Valladolid) with 8 regional branches across Castilla y León, ensuring high availability, security, and scalability.
 
 
-<div align="center">
   <img width="700" src="https://github.com/user-attachments/assets/298984af-7dcb-446e-ad97-90ee8e4832da"/>
-</div>
-
 
 
 ## Architecture Overview
