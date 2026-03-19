@@ -8,13 +8,12 @@
   ![Security](https://img.shields.io/badge/Security-ACLs_%7C_VPN_%7C_NAT-red?style=for-the-badge)
   ![Academic](https://img.shields.io/badge/3rd_Year-Network_Design-purple?style=for-the-badge)
 
-</div>
 
 > **ABOUT THIS PROJECT:**
 > Comprehensive design, administration, and security implementation of a corporate LAN/WAN network for an insurance company. The architecture connects a central headquarters (Valladolid) with 8 regional branches across Castilla y León, ensuring high availability, security, and scalability.
 
 <div align="center">
-  <img width="700" src="https://github.com/user-attachments/assets/f764a5c5-cc8f-43b9-a681-424a59f515e0" />
+  <img width="700" src="https://github.com/user-attachments/assets/298984af-7dcb-446e-ad97-90ee8e4832da" />
 </div>
 
 
