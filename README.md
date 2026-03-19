@@ -1,7 +1,6 @@
-<div align="center">
 # Corporate Network Architecture & Security Design
 
-
+<div align="center">
   
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
   ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-8.x-success?style=for-the-badge)
