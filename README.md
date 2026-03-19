@@ -14,7 +14,7 @@
 > Comprehensive design, administration, and security implementation of a corporate LAN/WAN network for an insurance company. The architecture connects a central headquarters (Valladolid) with 8 regional branches across Castilla y León, ensuring high availability, security, and scalability.
 
 <div align="center">
-  <img width="700" alt="Cisco Packet Tracer Network Topology" src="https://github.com/user-attachments/assets/f764a5c5-cc8f-43b9-a681-424a59f515e0" />
+  <img width="700" src="https://github.com/user-attachments/assets/f764a5c5-cc8f-43b9-a681-424a59f515e0" />
 </div>
 
 
